@@ -13,6 +13,6 @@
 | ---- | ---- | ---- | ---- |
 | aws_account | aws_kid | aws IAM access key ID | A**** |
 | aws_account | aws_sak | aws IAM secret access key | o**** |
-| bucket_info | region_name | aws s3 region name 区域 | us-west-1 |
+| bucket_info | region_name | aws s3 region name<br> 区域 | us-west-1 |
 | bucket_info | bucket | your bucket name<br>你的桶名称 | mybucket |
 | bucket_info | key | filename prefix<br>文件前缀 | myfolder |
